@@ -3,7 +3,7 @@
 Cloud Solution Architect and Engineer working with customers. Passionate about open source, tech, books and a lot more.
 
 - Blogging @ [medium.com](https://heyko.medium.com/)
-- [LinkedIn](https://www.linkedin.com/in/heyko/)
+- Reach out via [LinkedIn](https://www.linkedin.com/in/heyko/)
 
 <!--
 **heoelri/heoelri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
