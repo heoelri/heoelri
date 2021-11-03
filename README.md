@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## My GitHub stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=heoelri&count_private=true&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=heoelri&count_private=true&show_icons=true&theme=dark)
+
+![github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heoelri&layout=compact&theme=dark)
 
 _Dynamically generated GitHub stats using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)_
